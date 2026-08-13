@@ -1,4 +1,4 @@
-# CampusOS
+# Campus OS
 
 > One campus. One platform.
 
