@@ -8,6 +8,16 @@ Built for DevFusion 4.0 — Problem Statement 1: Smart Campus Management Platfor
 
 ---
 
+## Project Documentation
+
+- [PROJECT_SPEC.md](file:///c:/Users/Ragul/OneDrive/Desktop/Campus%20OS/PROJECT_SPEC.md) — Product requirements
+- [DEVELOPMENT_RULES.md](file:///c:/Users/Ragul/OneDrive/Desktop/Campus%20OS/DEVELOPMENT_RULES.md) — Development rules
+- [FULL_PLAN.md](file:///c:/Users/Ragul/OneDrive/Desktop/Campus%20OS/FULL_PLAN.md) — Complete implementation plan
+- [PROJECT_CONTEXT.md](file:///c:/Users/Ragul/OneDrive/Desktop/Campus%20OS/PROJECT_CONTEXT.md) — Current implementation state and architectural context
+- [NEXT_PHASE_PLAN.md](file:///c:/Users/Ragul/OneDrive/Desktop/Campus%20OS/NEXT_PHASE_PLAN.md) — Plan for the next development phase
+
+---
+
 ## Overview
 
 CampusOS replaces fragmented campus workflows — WhatsApp announcements, disconnected attendance systems, separate event registrations, assignment submissions, and placement notices — with one coherent platform.
@@ -192,8 +202,16 @@ Campus OS/
 │   └── migrations/             # Database migration files
 ├── public/                     # Static assets
 ├── .env.example                # Environment variable template
+├── .gitattributes              # Git path attributes
 ├── .gitignore
+├── .prettierignore
 ├── .prettierrc
+├── DEVELOPMENT_RULES.md        # Architectural rules of engagement
+├── FULL_PLAN.md                # Complete implementation plan
+├── NEXT_PHASE_PLAN.md          # Plan for the next phase (Phase 1)
+├── PROJECT_CONTEXT.md          # Current project context and status
+├── PROJECT_SPEC.md             # Product requirements specification
+├── README.md
 ├── eslint.config.mjs
 ├── next.config.ts
 ├── package.json
